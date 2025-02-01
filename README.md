@@ -9,9 +9,13 @@ $GroupId = "Add Your Entra ID Group ID"
 
 # Define the output CSV file path
 $CsvFilePath = "C:\AzureADGroupMembers.csv"
-```powershell
+```
 
 ## Make sure your Powershell execution policy is set to:
-
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope Process
+```
+
+## Save the script and run
+```powershell
+.\Get-AzureGroupMembers.ps1
