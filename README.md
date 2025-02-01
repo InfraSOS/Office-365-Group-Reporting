@@ -9,6 +9,7 @@ $GroupId = "Add Your Entra ID Group ID"
 
 # Define the output CSV file path
 $CsvFilePath = "C:\AzureADGroupMembers.csv"
+```powershell
 
 ## Make sure your Powershell execution policy is set to:
 
