@@ -21,9 +21,7 @@ Set-ExecutionPolicy RemoteSigned -Scope Process
 .\Get-AzureGroupMembers.ps1
 ```
 
-## Make sure your Powershell execution policy is set to:
-
-For complete Office 365 / Entra ID Reporting & Auditing check out our platform:
+## For complete Office 365 / Entra ID Reporting & Auditing check out our platform:
 
 [Office 365 Reporting Using InfraSOS](https://infrasos.com/office-365-reporting/)
 
