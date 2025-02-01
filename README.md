@@ -21,8 +21,8 @@ Set-ExecutionPolicy RemoteSigned -Scope Process
 .\Get-AzureGroupMembers.ps1
 ```
 
-## For complete Office 365 / Entra ID Reporting & Auditing check out our platform:
-
+## Need More Reports for Office 365 ?
+For complete Office 365 / Entra ID Reporting & Auditing check out our platform:
 [Office 365 Reporting Using InfraSOS](https://infrasos.com/office-365-reporting/)
 
 
